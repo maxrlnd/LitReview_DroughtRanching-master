@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2012)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: LitReview_DroughtRanching_20170817.aux
 The style file: plainnat.bst
@@ -7,45 +7,46 @@ Warning--I didn't find a database entry for "Cable1975"
 Warning--I didn't find a database entry for "Cerri2004"
 Warning--I didn't find a database entry for "Souza2001"
 Warning--I didn't find a database entry for "Holechek1988"
-You've used 24 entries,
+Warning--empty institution in Redfearn2000
+You've used 25 entries,
             2773 wiz_defined-function locations,
-            805 strings with 10184 characters,
-and the built_in function-call counts, 11676 in all, are:
-= -- 1083
-> -- 700
-< -- 12
-+ -- 237
-- -- 213
-* -- 1021
-:= -- 1843
-add.period$ -- 100
-call.type$ -- 24
-change.case$ -- 143
-chr.to.int$ -- 24
-cite$ -- 48
-duplicate$ -- 474
-empty$ -- 902
-format.name$ -- 249
-if$ -- 2400
+            810 strings with 10393 characters,
+and the built_in function-call counts, 12032 in all, are:
+= -- 1118
+> -- 721
+< -- 13
++ -- 244
+- -- 219
+* -- 1047
+:= -- 1904
+add.period$ -- 104
+call.type$ -- 25
+change.case$ -- 149
+chr.to.int$ -- 25
+cite$ -- 51
+duplicate$ -- 489
+empty$ -- 925
+format.name$ -- 258
+if$ -- 2471
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 21
-newline$ -- 156
-num.names$ -- 97
-pop$ -- 239
+newline$ -- 162
+num.names$ -- 101
+pop$ -- 246
 preamble$ -- 1
-purify$ -- 119
+purify$ -- 123
 quote$ -- 0
-skip$ -- 370
+skip$ -- 384
 stack$ -- 0
-substring$ -- 441
+substring$ -- 443
 swap$ -- 24
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 254
-warning$ -- 0
-while$ -- 108
+type$ -- 265
+warning$ -- 1
+while$ -- 111
 width$ -- 0
-write$ -- 371
-(There were 4 warnings)
+write$ -- 385
+(There were 5 warnings)

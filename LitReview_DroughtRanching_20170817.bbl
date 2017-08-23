@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{25}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -115,6 +115,13 @@ John (Montana State~University) Paterson, Rick (Montana State~University)
   Funston, Ron (Montana State~University) Carlstrom, and Greg (North Dakota
   State~University) Lardy.
 \newblock {Drought Management Strategies for Beef Cattle}, 2012.
+
+\bibitem[Redfearn and Bidwell(2000)]{Redfearn2000}
+Daren~D. Redfearn and Terrence~G. Bidwell.
+\newblock {Stocking Rate: The Key to Successful Livestock Production}.
+\newblock Technical report, 2000.
+\newblock URL \url{http://www.okrangelandswest.okstate.edu/files/grazing
+  management pdfs/F-2871web.pdf}.
 
 \bibitem[Reid et~al.(2014)Reid, Fern{\'{a}}ndez-Gim{\'{e}}nez, and
   Galvin]{Reid2014}
