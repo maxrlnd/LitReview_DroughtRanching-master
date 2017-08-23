@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: LitReview_DroughtRanching_20170817.aux
+The style file: plainnat.bst
+Database file #1: projectrisk.bib
+Warning--I didn't find a database entry for "Cable1975"
+Warning--I didn't find a database entry for "Cerri2004"
+Warning--I didn't find a database entry for "Souza2001"
+Warning--I didn't find a database entry for "Holechek1988"
+You've used 24 entries,
+            2773 wiz_defined-function locations,
+            805 strings with 10184 characters,
+and the built_in function-call counts, 11676 in all, are:
+= -- 1083
+> -- 700
+< -- 12
++ -- 237
+- -- 213
+* -- 1021
+:= -- 1843
+add.period$ -- 100
+call.type$ -- 24
+change.case$ -- 143
+chr.to.int$ -- 24
+cite$ -- 48
+duplicate$ -- 474
+empty$ -- 902
+format.name$ -- 249
+if$ -- 2400
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 21
+newline$ -- 156
+num.names$ -- 97
+pop$ -- 239
+preamble$ -- 1
+purify$ -- 119
+quote$ -- 0
+skip$ -- 370
+stack$ -- 0
+substring$ -- 441
+swap$ -- 24
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 254
+warning$ -- 0
+while$ -- 108
+width$ -- 0
+write$ -- 371
+(There were 4 warnings)
