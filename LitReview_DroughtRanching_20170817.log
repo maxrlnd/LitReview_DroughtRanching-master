@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 AUG 2017 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  23 AUG 2017 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,7 +397,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
- [9]
+ [9] [10]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -407,32 +407,26 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [10]
+ [11]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [11] <prices.pdf, id=59, 361.35pt x 261.97874pt>
+ [12] <prices.pdf, id=62, 361.35pt x 261.97874pt>
 File: prices.pdf Graphic file (type pdf)
- <use prices.pdf>
-Package pdftex.def Info: prices.pdf used on input line 180.
+
+<use prices.pdf>
+Package pdftex.def Info: prices.pdf used on input line 188.
 (pdftex.def)             Requested size: 361.34912pt x 261.9781pt.
+ [13 <./prices.pdf>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-
-[12] [13 <./prices.pdf>]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
  [14]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -442,10 +436,17 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
+ [15]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no î in font cmr10!
@@ -455,7 +456,7 @@ Missing character: There is no î in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [15] [16] [17]
+ [16] [17] [18]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
@@ -465,8 +466,8 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [18] [19] [20] [21] [22]
-(./LitReview_DroughtRanching_20170817.bbl
+ [19] [20]
+[21] [22] [23] (./LitReview_DroughtRanching_20170817.bbl
 Underfull \hbox (badness 2269) in paragraph at lines 43--51
 []\OT1/cmr/m/n/10.95 Gale H. Dunn, Megan Gutwein, Tim-o-thy R. Green, Ash-ley M
 enger, and Jeff
@@ -514,7 +515,7 @@ Overfull \hbox (9.38997pt too wide) in paragraph at lines 53--62
 wFile/8307/7919\OT1/cmr/m/n/10.95 . 
  []
 
-[23]
+[24]
 Overfull \hbox (101.36897pt too wide) in paragraph at lines 92--101
 \OT1/cmtt/m/n/10.95 http://www.jstor.org/stable/3897463?origin=crossref%5Cnhttp
 ://www.jstor.org/stable/3897463\OT1/cmr/m/n/10.95 . 
@@ -562,7 +563,7 @@ Underfull \hbox (badness 2158) in paragraph at lines 128--137
 163329.  URL
  []
 
-[24]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 179--184
 []\OT1/cmr/m/n/10.95 William R. Travis and Bryson Bates.  What is cli-
  []
@@ -572,7 +573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--184
 \OT1/cmr/m/n/10.95 mate risk man-age-ment?, 2014.  ISSN 22120963.  URL
  []
 
-[25]
+[26]
 Underfull \hbox (badness 1082) in paragraph at lines 196--203
 \OT1/cmr/m/n/10.95 lands.  \OT1/cmr/m/it/10.95 Geo-phys-i-cal Re-search Let-ter
 s\OT1/cmr/m/n/10.95 , 35(23):2--5, 2008.  ISSN 00948276.  doi:
@@ -582,7 +583,7 @@ s\OT1/cmr/m/n/10.95 , 35(23):2--5, 2008.  ISSN 00948276.  doi:
 
 Package natbib Warning: There were undefined citations.
 
-[26] (./LitReview_DroughtRanching_20170817.aux)
+[27] (./LitReview_DroughtRanching_20170817.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -604,11 +605,11 @@ sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on LitReview_DroughtRanching_20170817.pdf (26 pages, 281407 byte
+Output written on LitReview_DroughtRanching_20170817.pdf (27 pages, 285446 byte
 s).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 156 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
